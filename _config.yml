@@ -1,0 +1,60 @@
+markdown: rdiscount
+pygments: true
+
+
+
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title 
+
+exclude: ["README.md", "changelog.md"]
+auto: true
+markdown: rdiscount
+pygments: true
+paginate: 4
+
+title: World Corner
+tagline: Code, Life
+#url:   http://www.pizn.me
+feed:  /atom.xml
+author : 
+    name : Leonacwa
+    email : leon.acwa@gmail.com
+    github : leonacwa 
+#twitter : username
+#feedburner : feedname
+
+#description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
+
+about: "I am ACMer, Coder."
+follow:
+github:    http://github.com/leonacwa
+#twitter:      http://www.twitter.com/piznlin
+#description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
+
+
+style: 	  /css/style.css
+blogName: World Corner
+blogDesc: Code, Life
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt 
+# Most places will/should use BASE_PATH to make the urls
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.com, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project name at the end.
+#
+production_url : http://leonacwa.github.com
+
+#Pages path
+archive_page : /archive.html
+categories_page : /categories.html
+tags_page : /tags.html
+about_page : /about.html
+rss_page : /atom.xml
+
