@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World, Hello Github!
-category : test
+category : other 
 tags : [test, hello]
 ---
 
