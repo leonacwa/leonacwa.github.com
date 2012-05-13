@@ -32,8 +32,6 @@ github:    http://github.com/leonacwa
 #twitter:      http://www.twitter.com/piznlin
 #description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
 
-
-style: 	  /css/style.css
 blogName: World Corner
 blogDesc: Code, Life
 
@@ -52,9 +50,9 @@ blogDesc: Code, Life
 production_url : http://leonacwa.github.com
 
 #Pages path
-archive_page : /archive.html
-categories_page : /categories.html
-tags_page : /tags.html
-about_page : /about.html
-rss_page : /atom.xml
+#archive_page : /archive.html
+#categories_page : /categories.html
+#tags_page : /tags.html
+#about_page : /about.html
+#rss_page : /atom.xml
 
