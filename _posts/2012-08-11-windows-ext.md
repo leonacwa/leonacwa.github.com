@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在windowns下像EXE和BAT一样运行python脚本
-category : life 
+category : tech 
 tags : [time]
 ---
 我是在这个博客看到的，[来源](http://star23.yo2.cn/articles/%E5%9C%A8windowns%E4%B8%8B%E5%83%8Fexe%E5%92%8Cbat%E4%B8%80%E6%A0%B7%E8%BF%90%E8%A1%8Cpython%E8%84%9A%E6%9C%AC.html)  
