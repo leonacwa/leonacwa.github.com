@@ -5,7 +5,7 @@ category : linux
 tags : [linux, ubuntu, edit]
 ---
 
-** Gedit中文乱码  
+## Gedit中文乱码  
 缺省配置下，用 Ubuntu 的文本编辑器（gedit）打开 GB18030/GBK/GB2312 等类型的中文编码文本文件时，将会出现乱码。  
 出现这种情况的原因是，gedit 使用一个编码匹配列表，只有在这个列表中的编码才会进行匹配，不在这个列表中的编码将显示为乱码。您要做的就是将 GB18030 加入这个匹配列表。  
 
@@ -26,7 +26,7 @@ gconftool-2 --set --type=list --list-type=string /apps/gedit-2/preferences/encod
 单击确定按钮，关闭配置编辑器。  
 
 
-** gedit3.x版本设置  
+## gedit3.x版本设置  
 终端输入dconf-editor  
 展开org/gnome/gedit/preferences/encodings  auto-detected的value中加入’GB18030′，加在uft8后面；  
 show-in-menu的value中加入’GB18030′  
