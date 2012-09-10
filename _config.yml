@@ -13,7 +13,7 @@ markdown: rdiscount
 pygments: true
 paginate: 4
 
-title: World Corner
+title: 世界的角落
 tagline: Code, Life
 #url:   http://www.pizn.me
 feed:  /atom.xml
@@ -32,7 +32,7 @@ github:    http://github.com/leonacwa
 #twitter:      http://www.twitter.com/piznlin
 #description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
 
-blogName: World Corner
+blogName: 世界的角落
 blogDesc: Code, Life
 
 # Themes are encouraged to use these universal variables 
