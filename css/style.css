@@ -321,7 +321,7 @@ span.balloon {
 #sidebar {
 	float:right;
 	margin-left:-50px;
-	text-transform:uppercase;
+	/*text-transform:uppercase; 放大显示*/
 	width:20%;
 }
 
@@ -365,7 +365,7 @@ span.balloon {
 }
 
 #main {
-	float:right;
+	float:left;
 	width:80%;
 }
 
@@ -387,7 +387,7 @@ span.balloon {
 
 #logo {
 	width:740px;
-	margin:20px auto;
+	margin:30px auto;
 }
 
 #logo h1 a{
@@ -401,8 +401,9 @@ span.balloon {
 	text-align: left;
 	clear: both;
 	float: left;
-	margin-top: 40px;
-	margin-left: 40px;
+	margin-top: 0px;
+	margin-left: 100px;
+	color:#DDDDDD
 }
 
 #content .cnt p {
