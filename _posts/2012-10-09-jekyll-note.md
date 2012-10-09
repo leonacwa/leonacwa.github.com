@@ -2,7 +2,7 @@
 layout: post
 title: Github博客，jekyll的一些笔记
 category : git 
-tags : [time]
+tags : [git, jekyll]
 ---
 
 默认是根目录。
@@ -14,5 +14,17 @@ tags : [time]
 <pre name=code class=jekyll>
 { % for category in site.categories % } // 遍历目录
 	{ { category | first } } ({ { category | last | size } })  // 目录使用方法
+</pre>
+
+c++代码测试
+<pre name=code class=cpp>
+#include <iostream>
+using namespaces std;
+
+int main() {
+	cout << "Helle World!" << endl;
+	return 0;
+}
+
 </pre>
 
