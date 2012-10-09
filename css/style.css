@@ -319,7 +319,7 @@ span.balloon {
 }
 
 #sidebar {
-	float:left;
+	float:right;
 	margin-left:-50px;
 	text-transform:uppercase;
 	width:20%;
@@ -328,7 +328,7 @@ span.balloon {
 #sidebar ul {
 	list-style:none;
 	margin: 2px 0;
-	text-align:right;
+	text-align:left;
 	letter-spacing:1px;
 }
 
@@ -395,6 +395,14 @@ span.balloon {
 	font-size:35px;
 	color:#fff;
 	letter-spacing:3px;
+}
+
+#logo p {
+	text-align: left;
+	clear: both;
+	float: left;
+	margin-top: 40px;
+	margin-left: 40px;
 }
 
 #content .cnt p {

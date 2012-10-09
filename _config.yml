@@ -5,7 +5,8 @@ pygments: true
 
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+#old style:  permalink: /:categories/:year/:month/:day/:title 
+permalink: /blog/:year/:month/:day/:title 
 
 exclude: ["README.md", "changelog.md"]
 auto: true
@@ -14,7 +15,7 @@ pygments: true
 paginate: 4
 
 title: 世界的角落
-tagline: Code, Life
+title_tagline: Code, Life
 #url:   http://www.pizn.me
 feed:  /atom.xml
 author : 
