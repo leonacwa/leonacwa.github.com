@@ -12,7 +12,7 @@ tags : [time]
 
 #### 目录 category显示格式
 <pre name=code class=jekyll>
-{% for category in site.categories %} // 遍历目录
-	{{category | first}} ({{category | last | size }})  // 目录使用方法
+{ % for category in site.categories % } // 遍历目录
+	{ { category | first } } ({ { category | last | size } })  // 目录使用方法
 </pre>
 
