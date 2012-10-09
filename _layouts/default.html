@@ -97,32 +97,6 @@
     return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
 };
 
-if(!$.cookie('badget-github'))
-{
-	url = 'http://leezhong.com/util/proxy/github.php';
-	$.getJSON(url+"?callback=?", function(data){
-		var text = data['user']['public_repo_count'] + ' / ' + data['user']['followers_count'];
-		$('#github').find('.info').text(text);
-		$.cookie('badget-github', text, {expires: 7} );
-	});
-}
-else
-{
-	$('#github').find('.info').text($.cookie('badget-github'));
-}
-
-if(!$.cookie('badget-feedburner'))
-{
-	url = 'http://leezhong.com/util/proxy/feedburner.php';
-	$.getJSON(url+"?callback=?", function(data){
-		$('#feedburner').find('.info').text(data['count']);
-		$.cookie('badget-feedburner', data['count'], {expires: 7} );
-	});
-}
-else
-{
-	$('#feedburner').find('.info').text($.cookie('badget-feedburner'));
-}
 </script>
 					
 	</body>
