@@ -2,9 +2,7 @@
 layout: post
 title: Hello World!
 category: zatan
-categories: [zatan]
 tags: [helloworld, zatan]
-by: wp2md(php)
 ---
 
 这个是我的第一篇自己写的废话日志。

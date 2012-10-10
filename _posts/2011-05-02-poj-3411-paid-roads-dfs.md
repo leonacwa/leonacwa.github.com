@@ -2,9 +2,7 @@
 layout: post
 title: poj 3411 Paid Roads (DFS)
 category: acm
-categories: [acm]
 tags: [acm, dfs, poj, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a, %e8%bf%ad%e4%bb%a3]
-by: wp2md(php)
 ---
 
 <pre>/**

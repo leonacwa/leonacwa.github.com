@@ -2,9 +2,7 @@
 layout: post
 title: 做ACM的练习的时候一定要学会总结
 category: acm
-categories: [acm, programing]
 tags: [acm, %e5%bf%83%e5%be%97]
-by: wp2md(php)
 ---
 
 做ACM的练习的时候一定要学会总结！

@@ -2,9 +2,7 @@
 layout: post
 title: poj 1177 Picture (zkw线段树+陈宏的论文)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e7%ba%bf%e6%ae%b5%e6%a0%91, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/* poj 1177 Picture

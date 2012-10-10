@@ -2,9 +2,7 @@
 layout: post
 title: [转]搞ACM的你伤不起
 category: acm
-categories: [acm, programing, zz]
 tags: [acm, %e4%bc%a4%e4%b8%8d%e8%b5%b7, %e5%92%86%e5%93%ae%e4%bd%93, %e7%a2%8e%e7%a2%8e%e5%bf%b5, zz]
-by: wp2md(php)
 ---
 
 来源：<a href="http://roba.rushcj.com/?p=548">http://roba.rushcj.com/?p=548</a>

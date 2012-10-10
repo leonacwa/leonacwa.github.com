@@ -2,9 +2,7 @@
 layout: post
 title: 编程碎碎念
 category: programing
-categories: [programing]
 tags: [me, %e5%bf%83%e5%be%97, %e7%a2%8e%e7%a2%8e%e5%bf%b5, %e7%bc%96%e7%a8%8b]
-by: wp2md(php)
 ---
 
 对于文件的输入与输出要非常关注，因为就可能在这里出错。

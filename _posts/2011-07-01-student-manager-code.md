@@ -2,9 +2,7 @@
 layout: post
 title: 学生管理程序(代码)
 category: cpp
-categories: [cpp]
 tags: []
-by: wp2md(php)
 ---
 
 <pre>

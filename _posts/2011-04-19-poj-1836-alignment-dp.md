@@ -2,9 +2,7 @@
 layout: post
 title: poj 1836 Alignment (DP)
 category: acm
-categories: [acm]
 tags: [acm, dp, %e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre> /* poj 1836 Alignment

@@ -2,9 +2,7 @@
 layout: post
 title: 网络流学习资料 [转载]
 category: acm
-categories: [acm, programing, algorithm]
 tags: [acm, algorithm, %e7%bc%96%e7%a8%8b, %e7%bd%91%e7%bb%9c%e6%b5%81, zz]
-by: wp2md(php)
 ---
 
 网络是一个各条边都有权值和方向的图,网络流是满足以下性质的网络：

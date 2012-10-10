@@ -2,9 +2,7 @@
 layout: post
 title: NOIp 2009 trade 最优贸易 (SPFA)
 category: acm
-categories: [acm, programing]
 tags: [noip, %e5%bf%83%e7%9a%84, %e7%bc%96%e7%a8%8b, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a, %e8%bf%87%e5%8e%bb]
-by: wp2md(php)
 ---
 
 NOIp2009是我无法忘记的回忆，因为那代表我的不成熟，不理智。

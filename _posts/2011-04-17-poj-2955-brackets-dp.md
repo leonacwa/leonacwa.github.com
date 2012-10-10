@@ -2,9 +2,7 @@
 layout: post
 title: poj 2955 Brackets (DP)
 category: acm
-categories: [acm]
 tags: [dp, poj]
-by: wp2md(php)
 ---
 
 题意：给一段由( ) [ ] 组成的串，问最大的匹配数量是多少

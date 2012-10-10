@@ -2,9 +2,7 @@
 layout: post
 title: poj 3020 Antenna Placement (二分最大匹配)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e4%ba%8c%e5%88%86%e5%9b%be%e5%8c%b9%e9%85%8d, %e5%bf%83%e5%be%97, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/*

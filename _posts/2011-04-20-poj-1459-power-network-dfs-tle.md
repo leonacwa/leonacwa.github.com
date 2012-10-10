@@ -2,9 +2,7 @@
 layout: post
 title: poj 1459 Power Network (DFS -> TLE)
 category: acm
-categories: [acm]
 tags: [acm, poj, tle, %e5%bf%83%e5%be%97, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a, %e9%aa%97%e5%88%86]
-by: wp2md(php)
 ---
 
 /*

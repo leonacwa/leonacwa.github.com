@@ -2,9 +2,7 @@
 layout: post
 title: [转]女生应该找一个玩ACM的男生
 category: acm
-categories: [acm, zz]
 tags: [zz]
-by: wp2md(php)
 ---
 
 1、强烈的事业心

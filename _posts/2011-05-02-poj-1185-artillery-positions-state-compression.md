@@ -2,9 +2,7 @@
 layout: post
 title: poj 1185 炮兵阵地 (DP 状态压缩)
 category: acm
-categories: [acm]
 tags: [acm, dp, poj, %e5%bf%83%e5%be%97, %e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/*

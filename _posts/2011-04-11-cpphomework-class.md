@@ -2,9 +2,7 @@
 layout: post
 title: C++作业：类
 category: cpp
-categories: [cpp]
 tags: [c%e4%bd%9c%e4%b8%9a]
-by: wp2md(php)
 ---
 
 <div>（在WordPress里贴代码就是一个悲剧）</div>

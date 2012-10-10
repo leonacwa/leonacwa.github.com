@@ -2,9 +2,7 @@
 layout: post
 title: [转]有时候，我们把自己弄丢了
 category: life
-categories: [life, zz]
 tags: [%e6%9c%89%e6%97%b6%e5%80%99, zz]
-by: wp2md(php)
 ---
 
 <em>来源：Google搜的</em>

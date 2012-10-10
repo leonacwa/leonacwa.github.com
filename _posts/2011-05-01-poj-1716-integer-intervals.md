@@ -2,9 +2,7 @@
 layout: post
 title: poj 1716 Integer Intervals (差分约束)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e5%b7%ae%e5%88%86%e7%ba%a6%e6%9d%9f, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/*

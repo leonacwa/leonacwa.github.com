@@ -2,9 +2,7 @@
 layout: post
 title: poj 3087 Shuffle'm Up (模拟 吧)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e6%a8%a1%e6%8b%9f, %e6%b0%b4%e9%a2%98, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/* 

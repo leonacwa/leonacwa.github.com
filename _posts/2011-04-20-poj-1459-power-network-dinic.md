@@ -2,9 +2,7 @@
 layout: post
 title: poj 1459 Power Network (Dinic)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e5%bf%83%e5%be%97, %e7%bd%91%e7%bb%9c%e6%b5%81, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 /*

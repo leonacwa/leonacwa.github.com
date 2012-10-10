@@ -2,9 +2,7 @@
 layout: post
 title: poj 3253 Fence Repair (贪心 哈夫曼 堆排序)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e5%a0%86%e6%8e%92%e5%ba%8f, %e5%bf%83%e5%be%97, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a, %e8%b4%aa%e5%bf%83]
-by: wp2md(php)
 ---
 
 <pre>/* poj 3253 Fence Repair

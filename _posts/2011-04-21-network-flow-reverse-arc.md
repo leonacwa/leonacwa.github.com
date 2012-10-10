@@ -2,9 +2,7 @@
 layout: post
 title: 网络流中反向弧的作用
 category: acm
-categories: [acm, programing, algorithm]
 tags: [acm, %e5%bf%83%e5%be%97, %e6%9c%80%e5%a4%a7%e6%b5%81, %e7%bd%91%e7%bb%9c%e6%b5%81]
-by: wp2md(php)
 ---
 
 <strong>一切始于我不理解反向弧的作用。</strong>

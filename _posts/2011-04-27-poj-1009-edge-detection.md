@@ -2,9 +2,7 @@
 layout: post
 title: poj 1009 Edge Detection (对暴力的优化)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e4%bc%98%e5%8c%96, %e5%bf%83%e5%be%97, %e6%9a%b4%e5%8a%9b, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/* 

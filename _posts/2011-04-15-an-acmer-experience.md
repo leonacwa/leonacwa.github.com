@@ -2,9 +2,7 @@
 layout: post
 title: [转载]一位ACMer过来人的心得
 category: acm
-categories: [acm, programing, zz]
 tags: [acm, %e5%bf%83%e5%be%97, zz]
-by: wp2md(php)
 ---
 
 (说明，是从网上找到的，但是用谷歌找的时候似乎找不到出处了，如果原作者看见了，请见谅)

@@ -2,9 +2,7 @@
 layout: post
 title: NOIP 2009  sudoku 靶形数独 (DFS ,仅仅得到65分)
 category: acm
-categories: [acm, programing]
 tags: [noip, %e5%bf%83%e5%be%97, %e7%bc%96%e7%a8%8b, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a, %e8%bf%87%e5%8e%bb]
-by: wp2md(php)
 ---
 
 /* NOIP 2009 sudoku 靶形数独

@@ -2,9 +2,7 @@
 layout: post
 title: [歌曲]Schlaflied (摇篮曲) Kate&Ben
 category: songs
-categories: [songs]
 tags: [%e6%91%87%e7%af%ae%e6%9b%b2, %e6%ad%8c%e6%9b%b2]
-by: wp2md(php)
 ---
 
 <pre>Schlaflied 摇篮曲

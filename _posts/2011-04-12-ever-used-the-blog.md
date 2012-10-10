@@ -2,9 +2,7 @@
 layout: post
 title: 我曾经使用过的博客
 category: life
-categories: [life]
 tags: [me]
-by: wp2md(php)
 ---
 
 <a href="http://silvertrack.yo2.cn/">http://silvertrack.yo2.cn</a> <a href="http://canglong78.yo2.cn/">http://canglong78.yo2.cn/</a>

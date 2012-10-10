@@ -2,9 +2,7 @@
 layout: post
 title: 线段树 个人小结
 category: acm
-categories: [acm, data-structure]
 tags: [acm, %e5%bf%83%e5%be%97, data-structure, %e7%ba%bf%e6%ae%b5%e6%a0%91]
-by: wp2md(php)
 ---
 
 <pre>线段树 小结

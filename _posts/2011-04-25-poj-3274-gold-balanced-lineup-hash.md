@@ -2,9 +2,7 @@
 layout: post
 title: poj 3274 Gold Balanced Lineup (哈希)
 category: acm
-categories: [acm]
 tags: [acm, poj, %e5%93%88%e5%b8%8c, %e5%bf%83%e5%be%97, %e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a]
-by: wp2md(php)
 ---
 
 <pre>/* poj 3274 Gold Balanced Lineup

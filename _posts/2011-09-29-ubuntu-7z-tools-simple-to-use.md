@@ -2,9 +2,7 @@
 layout: post
 title: Ubuntu下7z工具简单使用
 category: linux
-categories: [linux, tools]
 tags: [7z]
-by: wp2md(php)
 ---
 
 我用的是Ubuntu10.10，系统自带的压缩包管理工具不好用，支持格式少，对中文支持很差，所以找了一个好工具7z，唯一缺点是只支持命令行调用。

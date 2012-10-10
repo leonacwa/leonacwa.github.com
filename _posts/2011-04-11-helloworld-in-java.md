@@ -2,9 +2,7 @@
 layout: post
 title: 用Java写个HelloWorld
 category: programing
-categories: [programing]
 tags: [helloworld, java]
-by: wp2md(php)
 ---
 
 前提：
