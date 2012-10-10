@@ -68,7 +68,7 @@ while ($row = mysqli_fetch_row($dtPosts)) {
 		$cats[] = "uncategorized";
 	}
 
-	$file_name = $cfg_post_dir . substr($date, 0, 10) . "_" . $name . ".md";
+	$file_name = $cfg_post_dir . substr($date, 0, 10) . "-" . $name . ".md";
 	$md_file = fopen($file_name, "w") or die("Open failed ".$file_name);
 	fprintf($md_file, "---\n");
 	fprintf($md_file, "layout: %s\n", $type);

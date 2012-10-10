@@ -1,9 +1,0 @@
-### WordPress 日志 转 md格式文件  
-
-#### posts  
-导出的日志目录，文件名格式 {date}_{post_name}.md  
-categories是原来日志的多个分类，默认取第一个作为日志的目录，可以日后修改  
-
-#### category 
-导出的目录名，使用对应的目录生成模板文件，可以自行修改wp2md.php的源代码  
-
