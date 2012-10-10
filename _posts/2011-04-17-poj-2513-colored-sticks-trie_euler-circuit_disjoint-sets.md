@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2513 Colored Sticks (trie树+欧拉回路+并查集)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 题意：给一些两端有颜色的棍子，按照同色的端点连接在一起，问所给的棍子能否组成一个长棍。

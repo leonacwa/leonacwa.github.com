@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2503 Babelfish (trie树)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>// poj 2503 Babelfish

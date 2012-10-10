@@ -1,8 +1,8 @@
 ---
 layout: post
-title: (转)搞ACM的你伤不起
-category: acm-icpc
-tags: [acm-icpc, zz]
+title: [转]搞ACM的你伤不起
+category : acmicpc
+tags : [acmicpc, zz]
 ---
 
 来源：<a href="http://roba.rushcj.com/?p=548">http://roba.rushcj.com/?p=548</a>

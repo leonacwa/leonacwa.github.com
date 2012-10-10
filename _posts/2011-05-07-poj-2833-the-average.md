@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2833 The Average (模拟)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/**

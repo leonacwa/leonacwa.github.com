@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 线段树 个人小结
-category: acm-icpc
-tags: [acm-icpc, data-structure]
+category : acmicpc
+tags : [acmicpc, data-structure]
 ---
 
 <pre>线段树 小结

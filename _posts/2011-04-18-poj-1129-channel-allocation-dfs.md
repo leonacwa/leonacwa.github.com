@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1129 Channel Allocation (DFS)
-category: acm-icpc
-tags: [acm-icpc, dfs, poj]
+category : acmicpc
+tags : [acmicpc, dfs, poj]
 ---
 
 <p>// poj 1129 Channel Allocation<br /><br />

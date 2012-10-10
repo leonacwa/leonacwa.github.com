@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 3740 Easy Finding (DFS)
-category: acm-icpc
-tags: [acm-icpc, dfs, poj]
+category : acmicpc
+tags : [acmicpc, dfs, poj]
 ---
 
 <pre>/*poj 3740 Easy Finding

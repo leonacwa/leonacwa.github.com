@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  poj 1416 Shredding Company (DFS)
-category: acm-icpc
-tags: [acm-icpc, dfs, poj]
+category : acmicpc
+tags : [acmicpc, dfs, poj]
 ---
 
 <pre>/*

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj1157_LITTLE SHOP OF FLOWERS (DP)
-category: acm-icpc
-tags: [acm-icpc, dp, poj]
+category : acmicpc
+tags : [acmicpc, dp, poj]
 ---
 
 <pre>/*

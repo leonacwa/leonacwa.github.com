@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 3020 Antenna Placement (二分最大匹配)
-category: acm-icpc
-tags: [acm-icpc, poj, bipartite-graph-matching]
+category : acmicpc
+tags : [acmicpc, poj, bipartite-graph-matching]
 ---
 
 <pre>/*

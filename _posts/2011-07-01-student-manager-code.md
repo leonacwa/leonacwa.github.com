@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 学生管理程序(代码)
-category: cpp
-tags: []
+category : cpp
+tags : [cpp]
 ---
 
 <pre>

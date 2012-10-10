@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2002 Squares (哈希)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/*

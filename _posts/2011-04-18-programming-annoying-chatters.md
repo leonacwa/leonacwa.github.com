@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 编程碎碎念
-category: programing
-tags: [me]
+category : programing
+tags : [me]
 ---
 
 对于文件的输入与输出要非常关注，因为就可能在这里出错。

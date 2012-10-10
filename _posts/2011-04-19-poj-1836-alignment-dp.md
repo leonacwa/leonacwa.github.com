@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1836 Alignment (DP)
-category: acm-icpc
-tags: [acm-icpc, dp]
+category : acmicpc
+tags : [acmicpc, dp]
 ---
 
 <pre> /* poj 1836 Alignment

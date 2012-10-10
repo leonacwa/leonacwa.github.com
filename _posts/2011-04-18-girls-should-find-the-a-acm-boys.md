@@ -1,8 +1,8 @@
 ---
 layout: post
-title: (转)女生应该找一个玩ACM的男生
-category: acm-icpc
-tags: [zz]
+title: [转]女生应该找一个玩ACM的男生
+category : acmicpc
+tags : [zz]
 ---
 
 1、强烈的事业心

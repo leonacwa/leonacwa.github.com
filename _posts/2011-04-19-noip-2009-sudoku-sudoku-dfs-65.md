@@ -1,8 +1,8 @@
 ---
 layout: post
 title: NOIP 2009  sudoku 靶形数独 (DFS ,仅仅得到65分)
-category: acm-icpc
-tags: [noip]
+category : acmicpc
+tags : [noip]
 ---
 
 /* NOIP 2009 sudoku 靶形数独

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1185 炮兵阵地 (DP 状态压缩)
-category: acm-icpc
-tags: [acm-icpc, dp, poj]
+category : acmicpc
+tags : [acmicpc, dp, poj]
 ---
 
 <pre>/*

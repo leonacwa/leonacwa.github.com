@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 网络流中反向弧的作用
-category: acm-icpc
-tags: [acm-icpc]
+category : acmicpc
+tags : [acmicpc]
 ---
 
 <strong>一切始于我不理解反向弧的作用。</strong>

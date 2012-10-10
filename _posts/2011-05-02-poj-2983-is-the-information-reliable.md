@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2983 Is the Information Reliable? (差分约束)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/*

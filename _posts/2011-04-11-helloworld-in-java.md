@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 用Java写个HelloWorld
-category: programing
-tags: [helloworld, java]
+category : programing
+tags : [helloworld, java]
 ---
 
 前提：

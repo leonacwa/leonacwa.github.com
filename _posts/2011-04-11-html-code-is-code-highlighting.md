@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 代码高亮HTML代码
-category: programing
-tags: [highlight]
+category : programing
+tags : [highlight]
 ---
 
 &lt;pre class="brush: cpp"&gt;

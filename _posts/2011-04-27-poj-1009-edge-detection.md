@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1009 Edge Detection (对暴力的优化)
-category: acm-icpc
-tags: [acm-icpc, poj, optimization]
+category : acmicpc
+tags : [acmicpc, poj, optimization]
 ---
 
 <pre>/* 

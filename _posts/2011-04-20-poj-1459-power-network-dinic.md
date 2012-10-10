@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1459 Power Network (Dinic)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 /*

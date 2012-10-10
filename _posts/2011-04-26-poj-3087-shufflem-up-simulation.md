@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 3087 Shuffle'm Up (模拟 吧)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/* 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: (转载)一位ACMer过来人的心得
-category: acm-icpc
-tags: [acm-icpc, zz]
+title: [转载]一位ACMer过来人的心得
+category : acmicpc
+tags : [acmicpc, zz]
 ---
 
 (说明，是从网上找到的，但是用谷歌找的时候似乎找不到出处了，如果原作者看见了，请见谅)

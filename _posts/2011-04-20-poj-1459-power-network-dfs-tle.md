@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1459 Power Network (DFS -> TLE)
-category: acm-icpc
-tags: [acm-icpc, poj, tle]
+category : acmicpc
+tags : [acmicpc, poj, tle]
 ---
 
 /*

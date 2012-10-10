@@ -54,6 +54,13 @@ while ($row = mysqli_fetch_row($dtPosts)) {
 	if (isset($pRel[ $id ])) foreach ($pRel[ $id ] as $oid => $ttid) {
 		$tid = $tRel[ $ttid ][0];
 		if ($tRel[ $ttid ][1] == 'category')  {
+			$str = $terms[ $tid ] [1];
+			$str = str_replace('%', '', $str);
+			$str = str_replace('{', '(', $str);
+			$str = str_replace('}', ')', $str);
+			$str = str_replace('[', '(', $str);
+			$str = str_replace(']', ')', $str);
+			$str = str_replace(':', ' ', $str);
 			$cats[] = $terms[ $tid ] [1];
 			$ncats[] = $terms[ $tid ] [0];
 			$cats_list[ $terms[ $tid ][1] ] = $terms[ $tid ][0];
@@ -61,8 +68,18 @@ while ($row = mysqli_fetch_row($dtPosts)) {
 			//var_dump($tRel[ $ttid ]);
 		} else if ($tRel[ $ttid ][1] == 'post_tag')  {
 			if (!isset($terms[ $tid ] )) printf("no tag %d => %d\n", $ttid, $tid);
-				if (!strstr($terms[ $tid ][1], '%')) $tags[] = $terms[ $tid ] [1];
-				$ntags[] = $terms[ $tid ] [0];
+			if (!strstr($terms[ $tid ][1], '%')) {
+				$str = $terms[ $tid ] [1];
+				$str = str_replace('{', '(', $str);
+				$str = str_replace('}', ')', $str);
+				$str = str_replace('[', '(', $str);
+				$str = str_replace(']', ')', $str);
+				$str = str_replace(':', ' ', $str);
+
+
+				$tags[] = $terms[ $tid ] [1];
+			}
+			$ntags[] = $terms[ $tid ] [0];
 		}
 	}
 	if (empty($cats)) {
@@ -78,9 +95,9 @@ while ($row = mysqli_fetch_row($dtPosts)) {
 	fprintf($md_file, "---\n");
 	fprintf($md_file, "layout: %s\n", $type);
 	fprintf($md_file, "title: %s\n", $title);
-	fprintf($md_file, "category: %s\n", $cats[0]);
+	fprintf($md_file, "category : %s\n", $cats[0]);
 	//fprintf($md_file, "categories: [%s]\n", implode(', ', $cats));
-	fprintf($md_file, "tags: [%s]\n", implode(', ', $tags));
+	fprintf($md_file, "tags : [%s]\n", implode(', ', $tags));
 	//fprintf($md_file, "by: %s\n", "wp2md(php)");
 	fprintf($md_file, "---\n\n");
 	fprintf($md_file, "%s\n", $content);
@@ -91,7 +108,7 @@ foreach ($cats_list as $cat_name => $cat_title) {
 	$cat_file = fopen($cfg_cat_dir . $cat_name.".html", "w") or die($cat_name);
 	fprintf($cat_file, "---\n");
 	fprintf($cat_file, "layout: %s\n", "category");
-	fprintf($cat_file, "title: %s\n", $cat_title);
+	fprintf($cat_file, "title : %s\n", $cat_title);
 	fprintf($cat_file, "---\n\n");
 	fprintf($cat_file, "{%% assign category_posts = site.categories.%s %%}\n", $cat_name);
 	fprintf($cat_file, "{%% include category_page.textile %%}");

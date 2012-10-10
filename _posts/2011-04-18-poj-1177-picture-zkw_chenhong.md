@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1177 Picture (zkw线段树+陈宏的论文)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/* poj 1177 Picture

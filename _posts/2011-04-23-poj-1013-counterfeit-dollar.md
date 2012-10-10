@@ -1,8 +1,8 @@
 ---
 layout: post
 title: POJ 1013 Counterfeit Dollar (枚举)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/*

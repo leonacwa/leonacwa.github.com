@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2955 Brackets (DP)
-category: acm-icpc
-tags: [dp, poj]
+category : acmicpc
+tags : [dp, poj]
 ---
 
 题意：给一段由( ) [ ] 组成的串，问最大的匹配数量是多少

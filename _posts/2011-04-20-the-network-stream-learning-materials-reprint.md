@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 网络流学习资料 [转载]
-category: acm-icpc
-tags: [acm-icpc, algorithm, zz]
+category : acmicpc
+tags : [acmicpc, algorithm, zz]
 ---
 
 网络是一个各条边都有权值和方向的图,网络流是满足以下性质的网络：

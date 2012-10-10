@@ -1,8 +1,8 @@
 ---
 layout: post
 title: NOIp 2009 trade 最优贸易 (SPFA)
-category: acm-icpc
-tags: [noip]
+category : acmicpc
+tags : [noip]
 ---
 
 NOIp2009是我无法忘记的回忆，因为那代表我的不成熟，不理智。

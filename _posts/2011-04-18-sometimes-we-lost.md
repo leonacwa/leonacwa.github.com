@@ -1,8 +1,8 @@
 ---
 layout: post
-title: (转)有时候，我们把自己弄丢了
-category: life
-tags: [zz]
+title: [转]有时候，我们把自己弄丢了
+category : life
+tags : [zz]
 ---
 
 <em>来源：Google搜的</em>

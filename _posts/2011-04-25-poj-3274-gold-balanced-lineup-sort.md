@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 3274 Gold Balanced Lineup (排序)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/* poj 3274 Gold Balanced Lineup

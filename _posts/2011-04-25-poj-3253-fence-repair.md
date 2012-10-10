@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 3253 Fence Repair (贪心 哈夫曼 堆排序)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/* poj 3253 Fence Repair

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 做ACM的练习的时候一定要学会总结
-category: acm-icpc
-tags: [acm-icpc]
+category : acmicpc
+tags : [acmicpc]
 ---
 
 做ACM的练习的时候一定要学会总结！

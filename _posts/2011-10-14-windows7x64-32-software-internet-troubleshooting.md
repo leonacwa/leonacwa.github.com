@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Windows 7 x64 出现32位软件无法上网的故障解决
-category: tips
-tags: [64, windows7, tips]
+category : tips
+tags : [64, windows7, tips]
 ---
 
 64位WIN7无故出现32位IE、及其它网络相关软件都无法上网的问题(但64位IE可以正常上网，说明网络或硬件是没有问题的).

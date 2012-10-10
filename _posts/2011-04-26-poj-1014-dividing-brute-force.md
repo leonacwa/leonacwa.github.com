@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 1014 Dividing (枚举,应该是)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>/*

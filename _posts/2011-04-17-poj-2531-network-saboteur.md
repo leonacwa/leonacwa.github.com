@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poj 2531 Network Saboteur (DFS+逆向求解+定界)
-category: acm-icpc
-tags: [acm-icpc, poj]
+category : acmicpc
+tags : [acmicpc, poj]
 ---
 
 <pre>// poj 2531 Network Saboteur
