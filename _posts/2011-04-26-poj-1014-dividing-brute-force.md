@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 1014 Dividing (枚举,应该是)
+title: poj 1014 Dividing (枚举 应该是)
 category : acmicpc
 tags : [acmicpc, poj]
 ---

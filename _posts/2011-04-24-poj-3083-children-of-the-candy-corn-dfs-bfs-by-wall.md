@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 3083 Children of the Candy Corn (DFS, BFS,靠墙走)
+title: poj 3083 Children of the Candy Corn (DFS  BFS 靠墙走)
 category : acmicpc
 tags : [acmicpc, bfs, dfs, poj]
 ---

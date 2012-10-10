@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 2488 A Knight's Journey (DFS)
+title: poj 2488 A Knight_s Journey (DFS)
 category : acmicpc
 tags : [acmicpc, dfs, poj]
 ---

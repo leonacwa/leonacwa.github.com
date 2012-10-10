@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 1177 Picture (zkw线段树+陈宏的论文)
+title: poj 1177 Picture (zkw线段树&陈宏的论文)
 category : acmicpc
 tags : [acmicpc, poj]
 ---

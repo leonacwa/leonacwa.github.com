@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 2513 Colored Sticks (trie树+欧拉回路+并查集)
+title: poj 2513 Colored Sticks (trie树 欧拉回路 并查集)
 category : acmicpc
 tags : [acmicpc, poj]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOIP 2009  sudoku 靶形数独 (DFS ,仅仅得到65分)
+title: NOIP 2009  sudoku 靶形数独 (DFS 仅仅得到65分)
 category : acmicpc
 tags : [noip]
 ---

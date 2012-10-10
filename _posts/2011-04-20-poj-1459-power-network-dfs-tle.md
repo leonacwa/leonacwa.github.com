@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 1459 Power Network (DFS -> TLE)
+title: poj 1459 Power Network (DFS is TLE)
 category : acmicpc
 tags : [acmicpc, poj, tle]
 ---

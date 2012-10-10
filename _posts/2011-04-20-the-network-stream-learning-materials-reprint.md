@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 网络流学习资料 [转载]
+title: 网络流学习资料 (转载)
 category : acmicpc
 tags : [acmicpc, algorithm, zz]
 ---
