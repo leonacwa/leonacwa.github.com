@@ -12,5 +12,5 @@ tags : [time]
 2.PATHEXT，添加扩展名.PY;.PYW  
 然后你就可随便执行你的python脚本了，就像EXE或BAT一样  
 
-当然，也可以用这种方式添加快捷方式的运行，比如我在运行里运行cygwin，就把.lnk加到PATHEXT中，把一个cygwin.lnk复制到windows目录即可。
+当然，也可以用这种方式添加快捷方式的运行，比如我在运行里运行cygwin，就把.lnk加到PATHEXT中，把一个cygwin.lnk复制到windows目录即可。  
 
