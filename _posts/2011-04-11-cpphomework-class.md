@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++作业：类 % ' + - & $ # @ !  
+title: C++作业：类 % ' + - & $ 
 category : cpp
 tags : [cpphomework]
 ---
