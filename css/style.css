@@ -154,7 +154,7 @@ p.nav + ul, p.nav + div {
 }
 
 ul.posts li a {
-	color:#333;
+	color:#111;
 }
 
 ul.index li {
@@ -164,7 +164,7 @@ ul.index li {
 
 ul.posts li .date {
 	float:right;
-	color:#999;
+	color:#333;
 	font-size:12px;
 	margin:0;
 }
@@ -361,7 +361,7 @@ span.balloon {
 }
 
 #content #sidebar li ul li a{
-	color:#999;
+	color:#444;
 	font-size:12px;
 }
 
