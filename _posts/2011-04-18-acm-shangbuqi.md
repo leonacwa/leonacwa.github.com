@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]搞ACM的你伤不起
+title: (转)搞ACM的你伤不起
 category : acmicpc
 tags : [acmicpc, zz]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]女生应该找一个玩ACM的男生
+title: (转)女生应该找一个玩ACM的男生
 category : acmicpc
 tags : [zz]
 ---

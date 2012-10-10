@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转载]一位ACMer过来人的心得
+title: (转载)一位ACMer过来人的心得
 category : acmicpc
 tags : [acmicpc, zz]
 ---

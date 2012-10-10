@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]有时候，我们把自己弄丢了
+title: (转)有时候，我们把自己弄丢了
 category : life
 tags : [zz]
 ---
