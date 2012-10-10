@@ -100,7 +100,13 @@ while ($row = mysqli_fetch_row($dtPosts)) {
 	fprintf($md_file, "tags : [%s]\n", implode(', ', $tags));
 	//fprintf($md_file, "by: %s\n", "wp2md(php)");
 	fprintf($md_file, "---\n\n");
-	fprintf($md_file, "%s\n", $content);
+	$len = strlen($content);
+	for ($i = 0; $i < $len; $i++) {
+		if ($content[$i] == "\n") 
+			fprintf($md_file, "    \n");
+		else 
+			fprintf($md_file, "%s", $content[$i]);
+	}
 	fclose($md_file);
 }
 
