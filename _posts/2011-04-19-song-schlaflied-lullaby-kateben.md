@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (歌曲)Schlaflied (摇篮曲) Kate&Ben
+title: (歌曲)Schlaflied (摇篮曲) Kate Ben
 category : songs
 tags : [songs]
 ---

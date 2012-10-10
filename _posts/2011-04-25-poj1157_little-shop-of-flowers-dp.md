@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj1157_LITTLE SHOP OF FLOWERS (DP)
+title: poj1157 LITTLE SHOP OF FLOWERS (DP)
 category : acmicpc
 tags : [acmicpc, dp, poj]
 ---

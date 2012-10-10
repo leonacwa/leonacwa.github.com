@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 3087 Shuffle_m Up (模拟 吧)
+title: poj 3087 Shuffle‘m Up (模拟 吧)
 category : acmicpc
 tags : [acmicpc, poj]
 ---

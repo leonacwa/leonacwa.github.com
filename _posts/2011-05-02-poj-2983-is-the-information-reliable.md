@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poj 2983 Is the Information Reliable? (差分约束)
+title: poj 2983 Is the Information Reliable (差分约束)
 category : acmicpc
 tags : [acmicpc, poj]
 ---
