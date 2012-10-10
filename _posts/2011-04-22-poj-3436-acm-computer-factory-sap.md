@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  poj 3436 ACM Computer Factory (SAP)
+title: poj 3436 ACM Computer Factory (SAP)
 category : acmicpc
 tags : [acmicpc, poj]
 ---
