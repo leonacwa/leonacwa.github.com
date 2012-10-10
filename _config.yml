@@ -12,7 +12,7 @@ exclude: ["README.md", "changelog.md"]
 auto: true
 markdown: rdiscount
 pygments: true
-paginate: 4
+paginate: 9
 
 title: 世界的角落
 title_tagline: Code, Life
