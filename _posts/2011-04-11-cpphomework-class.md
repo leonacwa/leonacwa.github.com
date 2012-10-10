@@ -1,8 +1,8 @@
 ---
 layout: post
 title: C++作业：类
-category: cpp
-tags: [cpp-homework]
+category : cpp
+tags : [cpp-homework]
 ---
 
 <div>（在WordPress里贴代码就是一个悲剧）</div>
