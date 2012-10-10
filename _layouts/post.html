@@ -16,88 +16,88 @@
 			 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			 })();
-</script>
-	</head>
+		 </script>
+	 </head>
 
-	<body>
-		<div id="logo">
-			<h1><a href="/">{{ site.title }}</a></h1>
-			<p>{{ site.title_tagline }}</p>
-		</div>
-		<div id="wrapper">
-			<div id="content">
-				<h2>{{ page.title }}</h2>
-				<span style="float:right">{{ post.date | date:"%Y-%m-%d" }}</span>
-				<div class="cnt">
-					{{ content }}
-					<br />
-				</div>
-				<div id="disqus_thread"></div>
-				<script type="text/javascript">
-					/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-				var disqus_shortname = 'worldcorner'; // required: replace example with your forum shortname
+	 <body>
+		 <div id="logo">
+			 <h1><a href="/">{{ site.title }}</a></h1>
+			 <p>{{ site.title_tagline }}</p>
+		 </div>
+		 <div id="wrapper">
+			 <div id="content">
+				 <h2>{{ page.title }}</h2>
+				 <span style="float:right">{{ page.date | date:"%Y-%m-%d" }}</span>
+				 <div class="cnt">
+					 {{ content }}
+					 <br />
+				 </div>
+				 <div id="disqus_thread"></div>
+				 <script type="text/javascript">
+					 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+				 var disqus_shortname = 'worldcorner'; // required: replace example with your forum shortname
 
-				/* * * DON'T EDIT BELOW THIS LINE * * */
-				(function() {
-				 var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-				 dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-				 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-				 })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+				 /* * * DON'T EDIT BELOW THIS LINE * * */
+				 (function() {
+				  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+				  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				  })();
+			  </script>
+			  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+			  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-			</div>
+		  </div>
 
-			<div id="footer">
-				<div id="feed">
-					<div class="badget" id="github">
-						<a href="http://github.com/leonacwa">
-							<span class="service">github</span>
-						</a>
-					</div>
-				</div>
-				<span style="color:#bbb;font-size:12px">make the world a little better and eaiser</span>
-				<p style="clear:both"></p>
-			</div>
+		  <div id="footer">
+			  <div id="feed">
+				  <div class="badget" id="github">
+					  <a href="http://github.com/leonacwa">
+						  <span class="service">github</span>
+					  </a>
+				  </div>
+			  </div>
+			  <span style="color:#bbb;font-size:12px">make the world a little better and eaiser</span>
+			  <p style="clear:both"></p>
+		  </div>
 
-			<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+		  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
 
-			<script type="text/javascript">
-				jQuery.cookie = function (key, value, options) {
+		  <script type="text/javascript">
+			  jQuery.cookie = function (key, value, options) {
 
-					// key and at least value given, set cookie...
-					if (arguments.length > 1 && String(value) !== "[object Object]") {
-						options = jQuery.extend({}, options);
+				  // key and at least value given, set cookie...
+				  if (arguments.length > 1 && String(value) !== "[object Object]") {
+					  options = jQuery.extend({}, options);
 
-						if (value === null || value === undefined) {
-							options.expires = -1;
-						}
+					  if (value === null || value === undefined) {
+						  options.expires = -1;
+					  }
 
-						if (typeof options.expires === 'number') {
-							var days = options.expires, t = options.expires = new Date();
-							t.setDate(t.getDate() + days);
-						}
+					  if (typeof options.expires === 'number') {
+						  var days = options.expires, t = options.expires = new Date();
+						  t.setDate(t.getDate() + days);
+					  }
 
-						value = String(value);
+					  value = String(value);
 
-						return (document.cookie = [
-								encodeURIComponent(key), '=',
-								options.raw ? value : encodeURIComponent(value),
-								options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
-								options.path ? '; path=' + options.path : '',
-								options.domain ? '; domain=' + options.domain : '',
-								options.secure ? '; secure' : ''
-								].join(''));
-					}
+					  return (document.cookie = [
+							  encodeURIComponent(key), '=',
+							  options.raw ? value : encodeURIComponent(value),
+							  options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+							  options.path ? '; path=' + options.path : '',
+							  options.domain ? '; domain=' + options.domain : '',
+							  options.secure ? '; secure' : ''
+							  ].join(''));
+				  }
 
-					// key and possibly options given, get cookie...
-					options = value || {};
-					var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
-					return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
-				};
-</script>
+				  // key and possibly options given, get cookie...
+				  options = value || {};
+				  var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
+				  return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+			  };
+		  </script>
 
-	</body>
-</html>
+	  </body>
+  </html>
 
