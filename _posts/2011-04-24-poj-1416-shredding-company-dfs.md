@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  poj 1416 Shredding Company (DFS)
+title: poj 1416 Shredding Company (DFS)
 category : acmicpc
 tags : [acmicpc, dfs, poj]
 ---
