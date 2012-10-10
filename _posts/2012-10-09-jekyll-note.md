@@ -5,6 +5,13 @@ category : git
 tags : [git, jekyll]
 ---
 
+特殊字符
+category tags  不能有中文和特殊的%字符
+post的title可以有  % ' + - & $ ! ，但是 \[ \{ 不确定
+tags category 名字不能太长???
+tags不能太多???
+post内容不能出现jekyll的liquid的关键字，如\{\{ \{%，要用空格隔开
+
 默认是根目录。
 
 #### _config.yml  
