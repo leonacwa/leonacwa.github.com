@@ -2,20 +2,18 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-		<title>{{ site.blogName }}</title>
+		<title>Archives - {{ site.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/css/style.css" />
 		<link rel="stylesheet" type="text/css" href="/css/syntax.css" />
-		<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/lzyy">
 		<script type="text/javascript">
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-1281124-20']);
-		  _gaq.push(['_trackPageview']);
-
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-35491540-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+			 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			 })();
 		</script>
 	</head>
 
@@ -26,25 +24,7 @@
 		</div>
 		<div id="wrapper">
 			<div id="content" class="index">
-				<div id="sidebar">
-					<ul>
-						<li><a href="/archives.html">Archives</a></li>
-						<li>
-							<a href="#">Articles</a>
-							<ul>
-								{% for category in site.categories %}
-								<li><a href="/category/{{ category[0]  }}.html">{{category | first}} ({{category | last | size }})</a></li>
-								{% endfor %}
-							</ul>
-						</li>
-						<li><a href="/quotes.html">Quotes</a></li>
-						<li><a href="/projects.html">Projects</a></li>
-						<li><a href="/about.html">About</a></li>
-						<li><a href="/links.html">Links</a></li>
-						<li><a href="/contact.html">Contact</a></li>
-					</ul>
-				</div>
-				
+				{% include sidebar.textile %}
 				<div id="main">
 				{{ content }}
 				</div>

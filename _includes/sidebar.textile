@@ -1,0 +1,20 @@
+<div id="sidebar">
+<ul>
+<li><a href="/archives.html">Archives</a></li>
+<li>
+<a href="#">Categories</a>
+<ul>
+{% for category in site.categories %}
+<li><a href="/category/{{ category[0]  }}.html">{{category | first}} ({{category | last | size }})</a></li>
+{% endfor %}
+</ul>
+</li>
+<li><a href="/page/quotes.html">Quotes</a></li>
+<li><a href="/page/projects.html">Projects</a></li>
+<li><a href="/page/about.html">About</a></li>
+<li><a href="/page/links.html">Links</a></li>
+<li><a href="/page/contact.html">Contact</a></li>
+</ul>
+</div>
+
+
