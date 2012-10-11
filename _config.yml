@@ -5,8 +5,8 @@ pygments: true
 
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-#old style:  permalink: /:categories/:year/:month/:day/:title 
-permalink: /blog/:year/:month/:day/:title 
+#permalink: /blog/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title 
 
 exclude: ["README.md", "changelog.md"]
 auto: true
